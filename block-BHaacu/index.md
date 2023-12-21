@@ -11,7 +11,7 @@ Find the small screen design in the assets folder. And For rest of the pages ple
 - Using CSS resets is necessary.
 
 - Use semantic tags and keep the nesting and indentation proper.
-
+xyzabc
 - Pay attention to the codes, your code quality matters a lot.
 
 - Try to implement the layout as exactly as it has been provided in the design.
